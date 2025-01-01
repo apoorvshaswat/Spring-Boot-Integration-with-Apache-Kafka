@@ -1,7 +1,7 @@
 # Spring Boot Integration with Apache Kafka
 
 ## Project Overview
-This project demonstrates how to integrate **Apache Kafka** with **Spring Boot** to build a scalable, fault-tolerant messaging system. Apache Kafka allows the exchange of messages between distributed systems, and this application shows how Spring Boot can simplify Kafka setup and communication. The application consists of a producer service that sends messages to a Kafka topic and a consumer service that listens for those messages
+This project demonstrates how to integrate **Apache Kafka** with **Spring Boot** to build a scalable, fault-tolerant messaging system. Apache Kafka allows the exchange of messages between distributed systems, and this application shows how Spring Boot can simplify Kafka setup and communication. The application consists of a producer service that sends messages to a Kafka topic and a consumer service that listens for those messages.
 
 ## Features
 - **Producer**: Sends messages to Kafka topics.
